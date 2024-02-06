@@ -70,7 +70,7 @@ To add a new color, first define the CSS variables for all of the variations of 
 
 ```css
 :root {
-  --ion-color-favorite: #69bb7b;
+  --ion-color-favorite: #00673e;
   --ion-color-favorite-rgb: 105, 187, 123;
   --ion-color-favorite-contrast: #ffffff;
   --ion-color-favorite-contrast-rgb: 255, 255, 255;
